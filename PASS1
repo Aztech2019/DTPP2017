@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTM3U
+
+#EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 http://gg.gg/8zy29
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="VTV" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png",VTC2
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi",VTC3
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi",VTC4
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/340?cb=20200821143114",VTC5
+https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png",VTC6
+https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",VTC7
+https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",VTC8
+https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png",VTC9
+https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10
+https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11
+https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi",VTC12
+https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png",VTC16
+https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
